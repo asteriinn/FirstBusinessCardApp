@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCardApp</string>
+    <string name="name">Aisyah Amanina Zamzami</string>
+    <string name="title">Software Engineer</string>
+    <string name="contact">+6013 884 6419</string>
+    <string name="email">aisyahamaninazamzami@gmail.com</string>
+    <string name="github">\@asteriinn</string>
+</resources>
